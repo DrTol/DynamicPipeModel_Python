@@ -1,4 +1,4 @@
-# DynamicPipeModel_Python
+# Dynamic Thermal Pipe Model
 A dynamic heat transport model for a single pre-insulated pipe (buried underground) with thermal inertia, for district heating systems. Based on method developed by Pálsson, Hálldór (see the [Reference](README.md#Reference) below for details); A couple of partial differential equations as obtained for water-steel, insulation, and ground was solved via the implicit numerical scheme (element method).
 
 ## Table of Contents
